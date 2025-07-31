@@ -108,7 +108,8 @@ function Contact() {
           Book Your Bike Service
         </h1> */}
       </section>
-
+      <h1>Hurryep</h1>
+       
       {/* Contact Details */}
       <section className="text-center py-10 px-4 md:px-16">
         <p className="text-white text-xl mb-8">We're here to help you with bike servicing, maintenance, and booking inquiries.</p>
