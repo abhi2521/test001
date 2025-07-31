@@ -20,7 +20,7 @@ function About() {
           <h2 className="text-white text-lg xs:text-xl sm:text-2xl md:text-3xl font-medium">
             ABOUT THUNDERBIKE GARAGE.
           </h2>
-          
+          <h1> Hello </h1>
         </section>
 
         {/* Content Sections */}
