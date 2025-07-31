@@ -18,8 +18,9 @@ function About() {
         {/* About Title */}
         <section className="text-center py-6 sm:py-8 px-4">
           <h2 className="text-white text-lg xs:text-xl sm:text-2xl md:text-3xl font-medium">
-            ABOUT THUNDERBIKE GARAGE
+            ABOUT THUNDERBIKE GARAGE.
           </h2>
+          
         </section>
 
         {/* Content Sections */}
