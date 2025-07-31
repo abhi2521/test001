@@ -21,6 +21,7 @@ function About() {
             ABOUT THUNDERBIKE GARAGE.
           </h2>
           <h1> Hello vanakkkam  </h1>
+          <h4> Poi tuhh vanga Tata</h4>
         </section>
 
         {/* Content Sections */}
